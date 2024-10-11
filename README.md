@@ -1,16 +1,12 @@
-# todolist
+Hello,
 
-A new Flutter project.
+Key Features:-
 
-## Getting Started
+Task Creation: Users can add new tasks and mark them as complete or incomplete using a checkbox.
+Task Display: The task list is displayed after successfully adding task records.
+Task Management: Users can mark tasks as complete or incomplete after they’ve been created.
+Task Deletion: Users can delete tasks directly from the task list screen.
+Task Details: Users can view task details by clicking on a task.
+Clear Task List: The entire task list can be cleared using the pencil square icon located below the welcome message.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Additionally, I included a text field for the first name, allowing for a personalized greeting (e.g., "Welcome, Tushar"), which enhances the user interface. This field is totally optional; you can choose to enter your name or skip it if you prefer.
